@@ -50,6 +50,7 @@ Thumbs.db
 .DS_Store
 
 # Large files
-*.pptx
+# Project presentation file is included
+# *.pptx  - Presentation files are included in this project
 *.docx
 *.xlsx
